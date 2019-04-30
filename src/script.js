@@ -1,3 +1,4 @@
+// дайте feedback правильности синтаксиса 
 
 function enter() {
   let login = prompt('Login', '');
